@@ -4,18 +4,7 @@ title: 저물어가는 ‘거제도 중공업 가족’ 영광의 30년 (주간�
 date: 2017-06-12T21:54:52+00:00
 author: admin
 layout: post
-guid: http://flyhendrixfly.net/?p=3380
-permalink: '/2017/06/12/%ec%a0%80%eb%ac%bc%ec%96%b4%ea%b0%80%eb%8a%94-%ea%b1%b0%ec%a0%9c%eb%8f%84-%ec%a4%91%ea%b3%b5%ec%97%85-%ea%b0%80%ec%a1%b1-%ec%98%81%ea%b4%91%ec%9d%98-30%eb%85%84-%ec%a3%bc%ea%b0%84/'
-views:
-  - "470"
-mytory_md_path:
-  - ""
-mytory_md_text:
-  - ""
-mytory_md_mode:
-  - url
-mytory_md_visits_count:
-  - "426"
+comments: true
 ---
 [경향신문 홈페이지에서 보기](http://news.khan.co.kr/kh_news/khan_art_view.html?code=940100&artid=201705271339011)
 
