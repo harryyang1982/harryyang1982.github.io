@@ -5,7 +5,7 @@
 paginate: 10
 
 # Name of your site (displayed in the header)
-name: Reading note of Harry Yang
+title: Reading note of Harry Yang
 
 # Short bio or description (displayed in the header)
 description: Data Analyst, Industrial Policy Analyst, Sociologist
@@ -57,31 +57,28 @@ baseurl: ""
 
 permalink: /:title/
 
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+# Author
+author: 
+  name: Harry Yang
+  url: http://harryyang1982.github.io
+  email: harry.seunghoon.yang@gmail.com
 
-theme: architect
+# Build settings
+markdown: kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-remote-theme
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
