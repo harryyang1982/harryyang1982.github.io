@@ -25,3 +25,4 @@ Ethnography, Social Theory, Industrial Policy, Data Science and Engineers
 [linkedin](https://www.linkedin.com/in/harryseunghoon)
 
 [facebook](https://www.facebook.com/seunghoon.yang)
+
