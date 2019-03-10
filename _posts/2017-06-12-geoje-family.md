@@ -2,7 +2,7 @@
 id: 3380
 title: 저물어가는 ‘거제도 중공업 가족’ 영광의 30년 (주간경향 5/27)
 date: 2017-06-12T21:54:52+00:00
-author: admin
+author: 양승훈
 layout: post
 comments: true
 ---
