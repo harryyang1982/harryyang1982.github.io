@@ -2,21 +2,16 @@
 id: 3025
 title: '피지컬로 쓰는 글쓰기와 영감에 대해 (무라카미 하루키, [직업으로서의 소설가]'
 date: 2016-06-04T19:00:18+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=3025
-permalink: '/2016/06/04/%ed%94%bc%ec%a7%80%ec%bb%ac%eb%a1%9c-%ec%93%b0%eb%8a%94-%ea%b8%80%ec%93%b0%ea%b8%b0%ec%99%80-%ec%98%81%ea%b0%90%ec%97%90-%eb%8c%80%ed%95%b4-%eb%ac%b4%eb%9d%bc%ec%b9%b4%eb%af%b8-%ed%95%98%eb%a3%a8/'
-views:
-  - "888"
-mytory_md_visits_count:
-  - "84"
+comments: true
 ---
 <table>
   <tr>
     <td>
       <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81267538&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank"><img src="http://image.aladin.co.kr/product/8126/75/cover/8972757713_1.jpg" alt="" border="0" /></a>
     </td>
-    
+
     <td align="left">
       <a class="aladdin_title" href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81267538&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank">직업으로서의 소설가</a> &#8211; <img src="http://image.aladin.co.kr/img/common/star_s10.gif" alt="10점" border="0" /><br /> 무라카미 하루키 지음, 양윤옥 옮김/현대문학
     </td>

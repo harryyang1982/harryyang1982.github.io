@@ -2,21 +2,16 @@
 id: 2976
 title: 새로운 방식의 조직화
 date: 2015-10-24T23:37:17+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2976
-permalink: '/2015/10/24/%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%b0%a9%ec%8b%9d%ec%9d%98-%ec%a1%b0%ec%a7%81%ed%99%94/'
-views:
-  - "1663"
-mytory_md_visits_count:
-  - "145"
+comments: true
 ---
 <table>
   <tr>
     <td>
       <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25753396&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank"><img src="http://image.aladin.co.kr/product/2575/33/cover/8997390198_1.jpg" alt="" border="0" /></a>
     </td>
-    
+
     <td align="left">
       <a class="aladdin_title" href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=25753396&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank">빅데이터, 승리의 과학</a> &#8211; <img src="http://image.aladin.co.kr/img/common/star_s10.gif" alt="10점" border="0" /><br /> 고한석 지음/이지스퍼블리싱
     </td>

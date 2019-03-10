@@ -2,21 +2,16 @@
 id: 2986
 title: '어떻게 세상을 읽고, 분석하고, 의미를 만들 것인가? &#8211; 나심 탈레브, 블랙스완'
 date: 2016-02-14T15:16:06+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2986
-permalink: '/2016/02/14/%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%84%b8%ec%83%81%ec%9d%84-%ec%9d%bd%ea%b3%a0-%eb%b6%84%ec%84%9d%ed%95%98%ea%b3%a0-%ec%9d%98%eb%af%b8%eb%a5%bc-%eb%a7%8c%eb%93%a4-%ea%b2%83%ec%9d%b8%ea%b0%80/'
-views:
-  - "1266"
-mytory_md_visits_count:
-  - "89"
+comments: true
 ---
 <table>
   <tr>
     <td>
       <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2708822&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank"><img src="http://image.aladin.co.kr/product/270/88/cover/8990247411_2.jpg" alt="" border="0" /></a>
     </td>
-    
+
     <td align="left">
       <a class="aladdin_title" href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2708822&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank">블랙 스완</a> &#8211; <img src="http://image.aladin.co.kr/img/common/star_s10.gif" alt="10점" border="0" /><br /> 나심 니콜라스 탈레브 지음, 차익종 옮김/동녘사이언스
     </td>

@@ -2,14 +2,9 @@
 id: 2995
 title: '정치&#8217;공학&#8217;이 어쨌다고?'
 date: 2016-05-10T23:58:07+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2995
-permalink: '/2016/05/10/%ec%a0%95%ec%b9%98%ea%b3%b5%ed%95%99%ec%9d%b4-%ec%96%b4%ec%a8%8c%eb%8b%a4%ea%b3%a0/'
-views:
-  - "1062"
-mytory_md_visits_count:
-  - "53"
+comments: true
 ---
 > 엔지니어링은 미래를 100퍼센트 예측한다는 것은 불가능한 일이라는 것을 알기에, 예측하려 하기보다는 대비를 하려고 한다. 내일 비가 올지 안 올지 맞추려고 하기보다는 우산을 준비해 나가는 것이다. 그렇게 보면 그리스의 위대한 철학자 소크라테스는 과학자이기보다는 엔지니어에 더 가까웠던 것 같다. 그는 “Scio me nihil scire.”라는 말을 남겼는데, 여기서 scio와 scire는 앞의 과학의 어원에서 나왔던 바로 그 sci-의 변형들이다. 이 말은 “나는 내가 알지 못한다는 것을 안다.”는 뜻이다.
 > 

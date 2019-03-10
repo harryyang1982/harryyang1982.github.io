@@ -2,14 +2,9 @@
 id: 3010
 title: '해고와 살인 &#8211; 예측과 사후조치'
 date: 2016-05-22T11:24:59+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=3010
-permalink: '/2016/05/22/%ed%95%b4%ea%b3%a0%ec%99%80-%ec%82%b4%ec%9d%b8-%ec%98%88%ec%b8%a1%ea%b3%bc-%ec%82%ac%ed%9b%84%ec%a1%b0%ec%b9%98/'
-views:
-  - "1183"
-mytory_md_visits_count:
-  - "76"
+comments: true
 ---
 며칠 전 벌어진 강남역 살인사건을 다룰 때 주로 사회학적으로 여성혐오misogyny와 증오범죄hate crime라는 개념이 많이 사용됐다. 가부장적이고 여성을 한 명의 대등한 사람이 아니며 또한 혐오의 대상으로 보는 인식이 사회적으로 깔려 있는 상황에서, 전형적인 증오에 기초해 저지른 범죄. 이에 대해 범죄학, 심리학적으로 미시적으로 동기를 살펴 보는 이야기가 다른 입장을 취하고 있다.
 
@@ -18,7 +13,7 @@ mytory_md_visits_count:
 두 이야기는 어찌 보면 별개 차원의 이슈를 다루는 것으로 보일 수 있다. 그럼에도 진보진영이나 노동계에서 주로 말하는 방식을 들어보면 &#8216;해고는 살인이다&#8217;라고 주장되기에, 그들의 범주를 가져 온다면 어쩌면 함께 엮어 볼수 있을 것 같다. 여성혐오 가부장 체제는 여성을 증오범죄로 살인하고, 신자유주의 체제는 노동자를 해고로 살인한다. 이건 유형적으로 거의 일치하는 방식의 유추다.
 
 <img class="alignnone" src="http://www.culturalaction.org/xe/files/attach/images/583/940/010/d06f2d58dfdc376bb52813c905ff2d3c." width="3576" height="3318" />
-  
+
 하지만 다른 관점에서도 강남역 살인사건과 구조조정으로 인한 해고를 엮을 수 있다. 바로 정책의 관점이다. 형사정책과 성평등정책, 그리고 노동정책과 산업정책을 건드리게 된다. 키워드는 예방과 사후조치다.
 
 살인사건은 사후조치 관점에서 보면 별로 할 수 있는 게 없다. 그저 망자를 어떻게 예우할지 문제, 이런 범주의 살인자에게 어떤 형량을 줄 것인지 문제만 남게 된다. 여론에 환기를 시킬 순 있지만 &#8216;죽음&#8217;이라는 상황을 원상복귀시키지 못하기에 사후조치가 되지 않는다.
@@ -39,4 +34,5 @@ mytory_md_visits_count:
 
 * 다시금 증오범죄에 희생된 고인과, 정리해고 후 탈락된 고통과 사회적 고립에 생사를 달리하신 노동자들의 명복을 빕니다.
   
+
 [<img class="alignnone size-full wp-image-3014" title="" src="http://flyhendrixfly.net/wp-content/uploads/2016/05/img_5271.jpg" alt="" width="2448" height="3264" srcset="http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271.jpg 2448w, http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271-225x300.jpg 225w, http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271-768x1024.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](http://flyhendrixfly.net/wp-content/uploads/2016/05/img_5271.jpg)
