@@ -2,18 +2,9 @@
 id: 2427
 title: 바바라 에런라이크의 몇 가지 복음
 date: 2014-08-28T14:39:53+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2427
-permalink: '/2014/08/28/%eb%b0%94%eb%b0%94%eb%9d%bc-%ec%97%90%eb%9f%b0%eb%9d%bc%ec%9d%b4%ed%81%ac%ec%9d%98-%eb%aa%87-%ea%b0%80%ec%a7%80-%eb%b3%b5%ec%9d%8c/'
-tumblr_flyinghendrix_permalink:
-  - http://flyinghendrix.tumblr.com/post/96002064351
-tumblr_flyinghendrix_id:
-  - "96002064351"
-views:
-  - "341"
-mytory_md_visits_count:
-  - "55"
+comments: true
 ---
 **&#8216;배신&#8217; 시리즈 끝**
 

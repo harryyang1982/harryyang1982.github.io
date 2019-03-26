@@ -2,21 +2,16 @@
 id: 2950
 title: '정직성이 느껴지는 생활인의 지침 &#8211; 김동조, [나는 나를 어떻게 할 것인가], 2015'
 date: 2015-08-01T17:48:44+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2950
-permalink: '/2015/08/01/%ec%a0%95%ec%a7%81%ec%84%b1%ec%9d%b4-%eb%8a%90%ea%bb%b4%ec%a7%80%eb%8a%94-%ec%83%9d%ed%99%9c%ec%9d%b8%ec%9d%98-%ec%a7%80%ec%b9%a8-%ea%b9%80%eb%8f%99%ec%a1%b0-%eb%82%98%eb%8a%94-%eb%82%98%eb%a5%bc/'
-views:
-  - "2371"
-mytory_md_visits_count:
-  - "76"
+comments: true
 ---
 <table>
   <tr>
     <td>
       <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8934970510&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank"><img src="http://image.aladin.co.kr/product/5563/69/cover/8934970510_1.jpg" alt="" border="0" /></a>
     </td>
-    
+
     <td align="left">
       <a class="aladdin_title" href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8934970510&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank">나는 나를 어떻게 할 것인가</a> &#8211; <img src="http://image.aladin.co.kr/img/common/star_s10.gif" alt="10점" border="0" /><br /> 김동조 지음/김영사
     </td>
