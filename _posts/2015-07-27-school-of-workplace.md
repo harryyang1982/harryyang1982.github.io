@@ -2,21 +2,16 @@
 id: 2946
 title: 알 수 없이 답답한 직장인을 위한 책 (박이언, 직장학교, 2015)
 date: 2015-07-27T18:06:13+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2946
-permalink: '/2015/07/27/%ec%95%8c-%ec%88%98-%ec%97%86%ec%9d%b4-%eb%8b%b5%eb%8b%b5%ed%95%9c-%ec%a7%81%ec%9e%a5%ec%9d%b8%ec%9d%84-%ec%9c%84%ed%95%9c-%ec%b1%85-%eb%b0%95%ec%9d%b4%ec%96%b8-%ec%a7%81%ec%9e%a5%ed%95%99%ea%b5%90/'
-views:
-  - "1599"
-mytory_md_visits_count:
-  - "69"
+comments: true
 ---
 <table>
   <tr>
     <td>
       <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K542433627&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank"><img src="http://image.aladin.co.kr/product/6262/41/cover/k542433627_2.jpg" alt="" border="0" /></a>
     </td>
-    
+
     <td align="left">
       <a class="aladdin_title" href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K542433627&ttbkey=ttbpanic822253008&COPYPaper=1" target="_blank">직장학교</a> &#8211; <img src="http://image.aladin.co.kr/img/common/star_s8.gif" alt="8점" border="0" /><br /> 박이언 지음/이야기나무
     </td>

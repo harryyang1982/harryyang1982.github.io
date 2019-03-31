@@ -4,12 +4,7 @@ title: '&#8220;백인 짓거리 하고 앉았네.&#8221; (공부에 대한 계�
 date: 2015-05-06T21:29:18+00:00
 author: admin
 layout: post
-guid: http://flyhendrixfly.net/?p=2938
-permalink: '/2015/05/06/%eb%b0%b1%ec%9d%b8-%ec%a7%93%ea%b1%b0%eb%a6%ac-%ed%95%98%ea%b3%a0-%ec%95%89%ec%95%98%eb%84%a4-%ea%b3%b5%eb%b6%80%ec%97%90-%eb%8c%80%ed%95%9c-%ea%b3%84%ea%b8%89%eb%b3%84-%ed%83%9c%eb%8f%84/'
-views:
-  - "979"
-mytory_md_visits_count:
-  - "55"
+comments: true
 ---
 > &#8220;By the middle of third grade (at around nine), they were 20% less likely than whites to be able to perform tasks such as multiplication.
 > 

@@ -2,14 +2,9 @@
 id: 2878
 title: stock vs flow, 블로그와 트위터
 date: 2015-01-03T16:29:44+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2878
-permalink: '/2015/01/03/stock-vs-flow-%ed%8a%b8%ec%9c%84%ed%84%b0%ec%99%80-%eb%b8%94%eb%a1%9c%ea%b7%b8/'
-views:
-  - "1037"
-mytory_md_visits_count:
-  - "56"
+comments: true
 ---
 2010년부터 트위터를 했다. 그 전까지 나는 서평을 쓰는 블로거이거나 신문과 잡지에 글을 쓰는 작가에 가까웠다.
 

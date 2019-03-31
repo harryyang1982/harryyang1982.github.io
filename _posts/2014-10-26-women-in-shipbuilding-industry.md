@@ -2,14 +2,9 @@
 id: 2856
 title: 조선업체의 여직원에 대해서 떠오르는 것들만 정리해 보자면..
 date: 2014-10-26T08:31:07+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2856
-permalink: '/2014/10/26/%ec%a1%b0%ec%84%a0%ec%97%85%ec%b2%b4%ec%9d%98-%ec%97%ac%ec%a7%81%ec%9b%90%ec%97%90-%eb%8c%80%ed%95%b4%ec%84%9c-%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ea%b2%83%eb%93%a4%eb%a7%8c-%ec%a0%95%eb%a6%ac/'
-views:
-  - "408"
-mytory_md_visits_count:
-  - "65"
+comments: true
 ---
 다른 용도로 쓴 글이지만, 제목에 부합하는 것 같아서 포스팅한다.
 

@@ -2,14 +2,9 @@
 id: 2891
 title: '스윗홈과 싸우기 &#8211; 명절을 맞아'
 date: 2015-02-17T12:01:22+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2891
-permalink: '/2015/02/17/%ec%8a%a4%ec%9c%97%ed%99%88%ea%b3%bc-%ec%8b%b8%ec%9a%b0%ea%b8%b0-%eb%aa%85%ec%a0%88%ec%9d%84-%eb%a7%9e%ec%95%84/'
-views:
-  - "459"
-mytory_md_visits_count:
-  - "66"
+comments: true
 ---
 비혼의 적적함에 대비되는 기혼자들이 꾸리는 &#8220;달콤한 나의 집&#8221;, 이른바 스윗홈.
 

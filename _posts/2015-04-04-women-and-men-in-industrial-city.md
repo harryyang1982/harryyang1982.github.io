@@ -2,14 +2,9 @@
 id: 2912
 title: '산업도시의 남성과 여성 &#8211; 가족과 네트워킹'
 date: 2015-04-04T14:42:55+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2912
-permalink: '/2015/04/04/%ea%b7%b8-%eb%82%a8%ec%9e%90%ec%9d%98-%ea%b0%80%ec%a1%b1%ea%b3%bc-%ea%b7%b8-%ec%97%ac%ec%9e%90%ec%9d%98-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%82%b9%ec%82%b0%ec%97%85%eb%8f%84%ec%8b%9c%ec%9d%98-%eb%82%a8/'
-views:
-  - "473"
-mytory_md_visits_count:
-  - "64"
+comments: true
 ---
 이제는 소멸해버린 것 같은 남성 생계부양자 모델은 아직 산업도시에 존재한다. 내부의 가부장제는 강고하게, 단 특이하게 지역사회를 만들어 낸다.  그러나 그 물적 토대는 흔들리고 있고 이제 또 다른 파멸을 만들어 낼 것이다.
 

@@ -2,14 +2,9 @@
 id: 2916
 title: 조선업의 하강과 대응에 대한 노트
 date: 2015-04-05T12:32:06+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2916
-permalink: '/2015/04/05/%ec%a1%b0%ec%84%a0%ec%97%85%ec%9d%98-%ed%95%98%ea%b0%95%ea%b3%bc-%eb%8c%80%ec%9d%91%ec%97%90-%eb%8c%80%ed%95%9c-%eb%85%b8%ed%8a%b8/'
-views:
-  - "623"
-mytory_md_visits_count:
-  - "48"
+comments: true
 ---
 정책을 만지는 사람과 이해당사자의 접근을 다를 수밖에 없다. 그런데 그냥 편들기 말고 정책을 만지는 사람의 머리씀을 발견할 수가 없다.
 

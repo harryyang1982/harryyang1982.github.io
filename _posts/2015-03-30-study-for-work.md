@@ -2,14 +2,9 @@
 id: 2902
 title: 삶을 위한 공부와 일을 위한 공부
 date: 2015-03-30T00:10:31+00:00
-author: admin
+author: 양승훈
 layout: post
-guid: http://flyhendrixfly.net/?p=2902
-permalink: '/2015/03/30/%ec%82%b6%ec%9d%84-%ec%9c%84%ed%95%9c-%ea%b3%b5%eb%b6%80%ec%99%80-%ec%9d%bc%ec%9d%84-%ec%9c%84%ed%95%9c-%ea%b3%b5%eb%b6%80/'
-views:
-  - "465"
-mytory_md_visits_count:
-  - "70"
+comments: true
 ---
 일을 위한 공부만 했던 사람에게 삶을 위한 공부는 무엇일까?
 
