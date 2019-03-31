@@ -1,27 +1,61 @@
----
-layout: post
-title: "About"
-author: "양승훈"
-permalink: /about/
----
+**Yang Seung Hoon** (양승훈)
 
-**양승훈(Harry Yang)**의 독서노트와 서평, 기고한 포스트 등을 모아놓는 블로그입니다.
+Kyungnam University
 
-저는 현재 경남대학교 사회학과에서 조교수로 근무 중입니다. 초급~중급 데이터분석기법을 가르칩니다.
+Sociology Department / Humanity College
 
-Currently, I've been working as an assistant professor in Sociology Department in Kyungnam University. I teach from elementary to intermediate level of data science.
+Masanhappogu, Changwon, Korea (51767)
 
-### 관심사 Interested in...
+Email: flyinghendrix@gmail.com, Phone: +82 55-249-2428
 
-에스노그라피, 사회이론, 산업정책, 데이터과학, 엔지니어
+[Facebook](https://www.facebook.com/seunghoon.yang)
 
-Ethnography, Social Theory, Industrial Policy, Data Science and Engineers
+Last Updated: April, 2019
 
-### Contact me on
 
-[e-mail](mailto:flyinghendrix@gmail.com)
 
-[linkedin](https://www.linkedin.com/in/harryseunghoon)
+**Employment**
 
-[facebook](https://www.facebook.com/seunghoon.yang)
+Assistant Professor, Kyungnam University (2017-present)
 
+Assistant Manager, DSME (2012-2017)
+
+Teaching Assistant, Yonsei University (2009-2011)
+
+Weapon Assignment Officer, Republic of Korea Airforce, 30th Air Defense Brigade (2006-2009)
+
+
+
+**Education**
+
+Yonsei University, Seoul, Korea
+
+​	M.A. (2012) Cultural Studies, Thesis: Neoliberal Transformation of Korean Military and Self-help during Military Service in 2000s.
+
+Konkuk University, Seoul, Korea
+
+​	B.A. (2005) Political Science, College of Political Science
+
+**Research Interest**
+
+Industrial City, Industrial Policy, Culture of Engineer and Hackers, Retraining and Labor Market
+
+
+
+**Publications**
+
+*Books*
+
+[*The Utopia of Heavy Industry Family*, Spring of May, 2019 (『중공업 가족의 유토피아』, 오월의봄, 2019 )](http://aladin.kr/p/a2rrE)
+
+[*The Twenties - The Frontline of Korean Society Today*, Korean Publish Marketing Research Institute, 2011(『20대: 오늘, 한국 사회의 최전선』, 한국출판마케팅연구소, 2011)](http://aladin.kr/p/P61vm)
+
+*Online Contents*
+
+[*The Disappeared British Industrial City*](https://publy.co/set/94), Publy, 2017(『사라진 영국의 산업도시』, 2017) 
+
+*Working Papers*
+
+"Geoje, the Industrial City and Heavy Industry Family"(21st Oct, 2017), *Critical Sociology Conference*, Critical Sociological Association of Korea ("산업도시 거제와 중공업 가족", 2017년 10월 21일 발표, 비판사회학대회, 한국비판사회학회)
+
+"Workplace Engineer and Laboratory Engineer - the question of Innovation and Engineering Culture"(25th Oct, 2018), *KAIST STP Colloquium*, KAIST STP("작업장 엔지니어와 랩실 엔지니어 - 혁신과 엔지니어 문화에 대한 질문", 2018년 10월 25일 발표, KAIST STP 콜로키움, KAIST STP)
