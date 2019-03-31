@@ -34,5 +34,3 @@ comments: true
 
 * 다시금 증오범죄에 희생된 고인과, 정리해고 후 탈락된 고통과 사회적 고립에 생사를 달리하신 노동자들의 명복을 빕니다.
   
-
-[<img class="alignnone size-full wp-image-3014" title="" src="http://flyhendrixfly.net/wp-content/uploads/2016/05/img_5271.jpg" alt="" width="2448" height="3264" srcset="http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271.jpg 2448w, http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271-225x300.jpg 225w, http://localhost:8080/wordpress/wp-content/uploads/2016/05/img_5271-768x1024.jpg 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](http://flyhendrixfly.net/wp-content/uploads/2016/05/img_5271.jpg)
