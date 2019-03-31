@@ -1,6 +1,6 @@
 ```javascript
 ---
-layout: nil
+layout: null
 ---
 [
   {% for post in site.posts %}
