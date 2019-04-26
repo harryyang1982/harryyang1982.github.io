@@ -41,6 +41,6 @@ comments: true
 
 [#캐쓸린씰렌](https://www.facebook.com/hashtag/캐쓸린씰렌?source=feed_text&epa=HASHTAG) [#Kathleen_Thelen](https://www.facebook.com/hashtag/kathleen_thelen?source=feed_text&epa=HASHTAG) [#How_Institutions_Evolve](https://www.facebook.com/hashtag/how_institutions_evolve?source=feed_text&epa=HASHTAG) [#제도는어떻게진화하는가](https://www.facebook.com/hashtag/제도는어떻게진화하는가?source=feed_text&epa=HASHTAG) [#숙련](https://www.facebook.com/hashtag/숙련?source=feed_text&epa=HASHTAG) [#생산직](https://www.facebook.com/hashtag/생산직?source=feed_text&epa=HASHTAG) [#노동](https://www.facebook.com/hashtag/노동?source=feed_text&epa=HASHTAG) [#엔지니어](https://www.facebook.com/hashtag/엔지니어?source=feed_text&epa=HASHTAG)
 
-![앞 표지]()
+![앞 표지](https://www.facebook.com/photo.php?fbid=10213893557959735&set=pcb.10213893795125664&type=3&__tn__=HH-R&eid=ARAaq1nXCWnzeNg8wmrjiHP6t8pe5bLVge5WRc3z-OlYVWQmYD0pPwfcDYmeUYc39zMUwPPiQjQqMbff)
 
-![뒷 표지]()
+![뒷 표지](https://www.facebook.com/photo.php?fbid=10213893558159740&set=pcb.10213893795125664&type=3&__tn__=HH-R&eid=ARA4xLQKP8FplkwPFJ4gsj0aB-DTjy1gjS0B_u2xrrL881FlAMMi0RYtGbC3nkSTOf5M9CQ-_1phv8kw)
