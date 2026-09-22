@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div class="archive-notice">
+  <p>이 블로그는 2007–2012년 글을 보존하는 아카이브다. 2013년 이후의 글과 새 글은 <a href="{{ site.new_posts_url }}">harryshyang.net의 포스트</a>에 있다. 옛 주소로 들어온 2013년 이후 글은 새 주소로 자동 이동한다.</p>
+  <p>This blog is an archive of posts from 2007–2012. Posts written since 2013 now live at <a href="{{ site.new_posts_url }}">harryshyang.net/ko/posts</a>; old links to them redirect there.</p>
+</div>
+
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
